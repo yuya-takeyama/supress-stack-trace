@@ -1,0 +1,14 @@
+{
+  "name": "supress-stack-trace",
+  "version": "0.1.0",
+  "description": "Supress stack trace of Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stacktrace"
+  ],
+  "author": "Yuya Takeyama",
+  "license": "MIT"
+}
